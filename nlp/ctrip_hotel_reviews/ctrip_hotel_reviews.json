@@ -1,1 +1,1 @@
-{'ctrip_hotel_reviews.txt': {"label": "1 means positive, 0 means negative view.", "review": "Chinese hotel reviews."}}
+{"ctrip_hotel_reviews.txt": {"label": "1 means positive, 0 means negative view.", "review": "Chinese hotel reviews."}}
