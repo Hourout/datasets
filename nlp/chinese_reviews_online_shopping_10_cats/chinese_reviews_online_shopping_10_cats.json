@@ -1,1 +1,1 @@
-{"chinese_reviews_online_shopping_10_cats.txt": {"cat": "10 categories (books, tablets, mobile phones, fruits, shampoos, water heaters, Mengniu, clothes, computers, hotels)", "label": "1 means positive, 0 means negative view.", "review": "Chinese hotel reviews."}}
+{"chinese_reviews_online_shopping_10_cats.txt": {"cat": "10 categories (books, tablets, mobile phones, fruits, shampoos, water heaters, Mengniu, clothes, computers, hotels)", "label": "1 means positive, 0 means negative view.", "review": "Chinese online shopping reviews."}}
