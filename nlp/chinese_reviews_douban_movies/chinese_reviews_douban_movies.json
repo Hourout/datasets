@@ -1,1 +1,1 @@
-
+{"movies.txt": {"movieId": "movie id.", "title": "The English name of the movie.", "title_cn": "Chinese name of the movie."}, "ratings": {"userId": "user id", "movieId": "movie id", "rating": "score, an integer between [1,5]", "timestamp": "rating time stamp.", "comment": "rating comments.", "like": "how many people like this comment."}}
